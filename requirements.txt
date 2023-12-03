@@ -1,0 +1,9 @@
+numpy 
+pandas 
+pandas 
+requests
+pandas 
+openpyxl
+xlrd
+matplotlib
+flask
